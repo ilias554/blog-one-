@@ -1,7 +1,7 @@
 ---
 title: What is Data ?
 date: "2022-09-19T22:40:32.169Z"
-excerpt: 'In computing, data is information that has been translated into a form that is efficient for movement or processing. Relative to today's computers and transmission media, data is information'
+description: In computing, data is information that has been translated into a form that is efficient for movement or processing. Relative to today's computers and transmission media, data is information ...
 cover_image: '/images/posts/ilyass (1).jpg'
 ---
 
