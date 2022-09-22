@@ -8,7 +8,7 @@ cover_image: '/images/posts/ilyass (1).jpg'
 > In computing, data is information that has been translated into a form that is efficient for movement or processing. Relative to today's computers and transmission media, data is information converted into binary digital form. It is acceptable for data to be used as a singular subject or a plural subject. Raw data is a term used to describe data in its most basic digital format.
 
 <img src="/images/posts/ilyass (1).jpg"
-     alt="Markdown Monster icon"
+     alt="database"
      style="float: left; margin-right: 10px;" />
 
 [database picture](/images/posts/ilyass (1).jpg)
