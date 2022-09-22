@@ -6,7 +6,7 @@ description: In computing, data is information that has been translated into a f
 
 > In computing, data is information that has been translated into a form that is efficient for movement or processing. Relative to today's computers and transmission media, data is information converted into binary digital form. It is acceptable for data to be used as a singular subject or a plural subject. Raw data is a term used to describe data in its most basic digital format.
 
-![database picture](./data.jpg)
+![database picture](/images/posts/ilyass (1).jpg)
 
 The concept of data in the context of computing has its roots in the work of Claude Shannon, an American mathematician known as the father of information theory.  He ushered in binary digital concepts based on applying two-value Boolean logic to electronic circuits. Binary digit formats underlie the CPUs, semiconductor memories and disk drives, as well as many of the peripheral devices common in computing today. Early computer input for both control and data took the form of punch cards, followed by magnetic tape and the hard disk. 
 
@@ -21,7 +21,7 @@ Data can be stored in file formats, as in mainframe systems using ISAM and VSAM.
 
 Greater specialization developed as database, database management system and then relational database technology arose to organize information.
 
-![data storage](./data_storage.jpg) 
+![data storage](./ilyass (2).jpg) 
 
 #### Types of data
 Growth of the web and smartphones over the past decade led to a surge in digital data creation.  Data now includes text, audio and video information, as well as log and web activity records. Much of that is unstructured data. 
