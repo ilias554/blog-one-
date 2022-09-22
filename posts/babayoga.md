@@ -7,6 +7,10 @@ cover_image: '/images/posts/ilyass (1).jpg'
 
 > In computing, data is information that has been translated into a form that is efficient for movement or processing. Relative to today's computers and transmission media, data is information converted into binary digital form. It is acceptable for data to be used as a singular subject or a plural subject. Raw data is a term used to describe data in its most basic digital format.
 
+<img src="/images/posts/ilyass (1).jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 [database picture](/images/posts/ilyass (1).jpg)
 
 The concept of data in the context of computing has its roots in the work of Claude Shannon, an American mathematician known as the father of information theory.  He ushered in binary digital concepts based on applying two-value Boolean logic to electronic circuits. Binary digit formats underlie the CPUs, semiconductor memories and disk drives, as well as many of the peripheral devices common in computing today. Early computer input for both control and data took the form of punch cards, followed by magnetic tape and the hard disk. 
