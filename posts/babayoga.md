@@ -21,7 +21,7 @@ Data can be stored in file formats, as in mainframe systems using ISAM and VSAM.
 
 Greater specialization developed as database, database management system and then relational database technology arose to organize information.
 
-![data storage](./ilyass (2).jpg) 
+![data storage](/images/posts/ilyass (2).jpg) 
 
 #### Types of data
 Growth of the web and smartphones over the past decade led to a surge in digital data creation.  Data now includes text, audio and video information, as well as log and web activity records. Much of that is unstructured data. 
